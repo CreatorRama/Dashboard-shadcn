@@ -2,7 +2,7 @@
 
 A modern, responsive content management dashboard built with React, TypeScript and shadcn/ui components. This dashboard allows users to manage articles, view analytics, and publish content to their websites.
 
-![Dashboard Screenshot](https://placeholder-image.com/dashboard-screenshot.png)
+![Dashboard Screenshot](./src/assets/dashboard.png)
 
 ## Features
 
